@@ -1,7 +1,7 @@
 <?php
 
 $lang["friendlyname"] = "Mocean SMS";
-$lang["admindescription"] = "This module created by MoceanAPI. To use this module, you need to at least own an MoceanAPI account. Don't have any? Create free at https://dashboard.moceanapi.com/register";
+$lang["admindescription"] = "This module created by MoceanAPI. To use this module, you need to at least own an MoceanAPI account. Don't have any? Create free at <a href='https://dashboard.moceanapi.com/register?fr=cmsmadesimple'>here</a>";
 $lang["credential"] = "Credential";
 $lang['ask_uninstall'] = 'Are you sure you want to uninstall the MoceanSMS module? All contacts and histories will be permanently deleted.';
 $lang["apikey"] = "API Key";
